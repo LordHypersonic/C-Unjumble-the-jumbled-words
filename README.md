@@ -1,5 +1,5 @@
 Hello peeps! Lord Hypersonic greets you. Today I am here with  a c++ program that will solve any jumble word. ONLY WORD. 
-For working of this program you need a text file in the same folder (click here to download files), in which EXE file is. 
+For working of this program you need words.txt text file in the same folder, in which EXE file is. 
 So the working of program is like this; 
 
 1. First it will ask for jumbled word.
